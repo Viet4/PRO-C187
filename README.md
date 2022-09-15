@@ -1,1 +1,2 @@
-# PRO-C187-Student-Boilerplate
+# PRO-C187
+MAKE YOUR OWN PROJECT
